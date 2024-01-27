@@ -1,6 +1,5 @@
 
 import csv
-
 def read_disneyland_reviews():
     file_path = "/Users/macbook/Downloads/project_template (3)/data/disneyland_reviews.csv"
     try:
